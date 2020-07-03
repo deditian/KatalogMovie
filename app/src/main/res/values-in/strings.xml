@@ -1,0 +1,18 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Kataloge Movie</string>
+    <string name="title_activity_navigasi">Katalog Film</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Deditian Nurhadiid</string>
+    <string name="nav_header_subtitle"><xliff:g id="application_homepage">https://github.com/deditian</xliff:g></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="nowplaying">Sedang Dimainkan</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="share">Bagikan</string>
+    <string name="favorite">Favorit</string>
+    <string name="detail">Detail</string>
+    <string name="overview_empty">"Sinopsi Kosong"</string>
+</resources>

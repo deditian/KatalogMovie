@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ 
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_now_playin"
+            android:icon="@drawable/ic_now_playing"
+            android:title="@string/nowplaying" />
+        <item
+            android:id="@+id/nav_upcoming"
+            android:icon="@drawable/ic_upcoming"
+            android:title="@string/upcoming" />
+
+    </group>
+</menu>
